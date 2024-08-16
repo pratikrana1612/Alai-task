@@ -1,3 +1,4 @@
+Completed [Demo](https://timeline.trinitykg.com/)
 # Alai Coding Challenge: TLDraw Timeline Implementation
 
 Welcome to the Alai Coding Challenge! This project is set up with React, TypeScript, and TLDraw.
